@@ -13,10 +13,10 @@ I've got some projects I'm currently working on and if any go public i hope you 
 You can contact and see my projects on https://rhiansportfolio.vercel.app
 
 Fun Fact:
-I like manwhas/manga and books
-I have traveled to japan, south korea, singapore, and hong kong. Beautiful places
-I love cats and good food
-I have knowledge of weird facts at the top of my head and I'm not sure why my brain remembers them
+	- I like manwhas/manga and books
+	- I have traveled to japan, south korea, singapore, and hong kong. Beautiful places
+	- I love cats and good food
+	- I have knowledge of weird facts at the top of my head and I'm not sure why my brain remembers them
 <!--
 **inigo011808-debug/inigo011808-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
